@@ -20,6 +20,23 @@ body {
     margin-top: 110px;
 }
 
+.text1 {
+    position: absolute;
+    font-family: 'Original Surfer', cursive;
+    margin-left: 19px;
+    margin-top: 142px;
+}
+.text2{
+    position: absolute;
+    font-family: 'Original Surfer', cursive;
+    margin-left: 83px;
+    margin-top: 197px;
+}
+
+.text1 span:last-child {
+  padding-left: 70px;
+}
+
 #outer-circle {
     background: #385a94;
     border-radius: 50%;
