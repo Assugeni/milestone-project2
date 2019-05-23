@@ -2,6 +2,23 @@ body {
     background-image: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/woven.png);
 }
 
+.toggle {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.button {
+    border-radius: 50% !important;
+    font-size: 1.5em;
+    background-color: lightgray;
+}
+
+#switches {
+    position: absolute;
+    font-family: 'Original Surfer', cursive;
+    margin-left: 26px;
+    margin-top: 110px;
+}
 
 #outer-circle {
     background: #385a94;
