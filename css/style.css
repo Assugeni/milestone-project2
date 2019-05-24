@@ -16,7 +16,7 @@ body {
 #switches {
     position: absolute;
     font-family: 'Press Start 2P', cursive;
-    margin-left: 26px;
+    margin-left: 13px;
     margin-top: 110px;
 }
 
@@ -28,21 +28,23 @@ body {
 }
 
 .text1 span:last-child {
-  padding-left: 70px;
+  padding-left: 48px;
+  font-size: 13px;
 }
 
 .text2{
     position: absolute;
     font-family: 'Press Start 2P', cursive;
+    font-size: 13px;
     margin-left: 83px;
-    margin-top: 197px;
+    margin-top: 205px;
 }
 
 #title {
     font-family: 'Press Start 2P', cursive;
     position: absolute;
-    font-size: 40px;
-    margin-left: 35px;
+    font-size: 30px;
+    margin-left: 40px;
     margin-top: 40px;
 }
 
