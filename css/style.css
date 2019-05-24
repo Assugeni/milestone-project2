@@ -15,30 +15,31 @@ body {
 
 #switches {
     position: absolute;
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Press Start 2P', cursive;
     margin-left: 26px;
     margin-top: 110px;
 }
 
 .text1 {
     position: absolute;
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Press Start 2P', cursive;
     margin-left: 19px;
     margin-top: 142px;
-}
-.text2{
-    position: absolute;
-    font-family: 'Original Surfer', cursive;
-    margin-left: 83px;
-    margin-top: 197px;
 }
 
 .text1 span:last-child {
   padding-left: 70px;
 }
 
+.text2{
+    position: absolute;
+    font-family: 'Press Start 2P', cursive;
+    margin-left: 83px;
+    margin-top: 197px;
+}
+
 #title {
-    font-family: 'Original Surfer', cursive;
+    font-family: 'Press Start 2P', cursive;
     position: absolute;
     font-size: 40px;
     margin-left: 35px;
